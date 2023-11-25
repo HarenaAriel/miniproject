@@ -1,6 +1,6 @@
 import React from "react";
-import HomePage from "../features/home/HomePage";
 import Navbar from "./Navbar";
+import { Outlet } from "react-router";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <div className="App">
         <Navbar />
         <div className="content">
-          <HomePage />
+          <Outlet />
         </div>
       </div>
     </>
