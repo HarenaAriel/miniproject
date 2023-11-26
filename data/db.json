@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "React Course 3",
+      "body": "React body by Kevin, add third course to the practice, learn and give new things",
+      "author": "Kevin",
+      "id": 3
+    },
+    {
+      "title": "Update React",
+      "body": "New Update to React Component in course",
+      "author": "Jacques",
+      "id": 4
+    },
+    {
+      "title": "Upcoming 2023 React",
+      "body": "A backend Dev must become a fullstack to full fill the need of the work needs. so in order to achieve this task, i'm supposed to work with react",
+      "author": "Ariel",
+      "id": 5
+    },
+    {
+      "title": "hello, blog about react",
+      "body": "i'm new so i want to learn a lot with you all. please be kind",
+      "author": "Kevin",
+      "id": 6
+    }
+  ]
+}
